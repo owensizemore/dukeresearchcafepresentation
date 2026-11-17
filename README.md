@@ -2,4 +2,4 @@
 
 Presented on November 18, 2026
 
-Slides: owensizemore.github.io/dukeresearchcafepresentation
+Slides: https://owensizemore.github.io/dukeresearchcafepresentation
